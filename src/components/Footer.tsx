@@ -7,7 +7,7 @@ export function Footer() {
     return (
         <footer className="bg-zinc-800 border-t border-zinc-700 px-6 py-4 flex items-center justify-between">
         <div className='flex items-center gap-3'>
-          <Image className='' src='/rosa.jpeg' width={56} height={56} alt='banda rosa de saron'/>
+          <Image className='' src='/walmir.jpeg' width={56} height={56} alt='banda rosa de saron'/>
           <div>
             <strong className='font-semibold'>Ao partir o pão</strong>
             <p className='text-xs text-zinc-400'>Walmir Alencar</p>
